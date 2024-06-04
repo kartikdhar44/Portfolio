@@ -4,6 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import wacky from "../../Assets/Projects/wacky.png";
 import Augury from "../../Assets/Projects/Augury.png";
+import WRB from "../../Assets/Projects/WRB.png";
+import AMD from "../../Assets/Projects/AMD.png";
 
 function Projects() {
   return (
@@ -14,7 +16,7 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Here are my personal projects.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
@@ -40,7 +42,37 @@ function Projects() {
               demoLink="https://youtu.be/_jVrJQjr9oQ"
             />
           </Col>
+           
+          
+        </Row>
 
+        <p style={{ color: "white" }}>
+          Here are my other projects.
+        </p>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={WRB}
+              isBlog={false}
+              title="World Robot Boxing"
+              description="This is a Project I worked on during my time in Reliance games. I mainly worked on optimising the development pipeline and code-refactoring
+               through the development of editor tools."
+              ghLink="https://reliancegames.com/games/real-steel-world-robot-boxing.html"
+              demoLink="https://play.google.com/store/apps/details?id=com.jumpgames.rswrb&hl=en_IN"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={AMD}
+              isBlog={false}
+              title="American Dad: Apocalypse Soon"
+              description="Another Project I am working on during my time at Reliance Games." 
+              ghLink="https://play.google.com/store/apps/details?id=com.my.ffs.simulator.americandad&hl=en&pli=1"
+              demoLink="https://play.google.com/store/apps/details?id=com.my.ffs.simulator.americandad&hl=en&pli=1"
+            />
+          </Col>
+           
           
         </Row>
       </Container>
