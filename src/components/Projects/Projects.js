@@ -57,7 +57,6 @@ function Projects() {
               title="World Robot Boxing"
               description="This is a Project I worked on during my time in Reliance games. I mainly worked on optimising the development pipeline and code-refactoring
                through the development of editor tools."
-              ghLink="https://reliancegames.com/games/real-steel-world-robot-boxing.html"
               demoLink="https://play.google.com/store/apps/details?id=com.jumpgames.rswrb&hl=en_IN"
             />
           </Col>
@@ -67,8 +66,10 @@ function Projects() {
               imgPath={AMD}
               isBlog={false}
               title="American Dad: Apocalypse Soon"
-              description="Another Project I am working on during my time at Reliance Games." 
-              ghLink="https://play.google.com/store/apps/details?id=com.my.ffs.simulator.americandad&hl=en&pli=1"
+              description="Another Project I am worked on during my time at Reliance Games.Handled the feature development in the game by using various tech Stacks
+                                                  Like Java, C# and used Spring for building Admin Tool Web Application.
+                                                  Built API’s using Java and Spring. Coded yaml files for docker."
+                                                                                          
               demoLink="https://play.google.com/store/apps/details?id=com.my.ffs.simulator.americandad&hl=en&pli=1"
             />
           </Col>
