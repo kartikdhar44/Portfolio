@@ -8,13 +8,13 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Credits: </h3>
-          <a href="https://github.com/soumyajit4419/Portfolio">
-        <h3>Soumyajit Dutta</h3>
+          <h3></h3>
+          <a href="">
+        <h3></h3>
           </a>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3></h3>
         </Col>
       </Row>
     </Container>
