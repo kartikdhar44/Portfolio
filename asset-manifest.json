@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e3864b66.css",
+    "main.js": "/Portfolio/static/js/main.9fee0b2c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Augury.png": "/Portfolio/static/media/Augury.91e9af5621a983668c21.png",
+    "static/media/WRB.png": "/Portfolio/static/media/WRB.7144d2ff3cbe05aba5be.png",
+    "static/media/home-bg.jpeg": "/Portfolio/static/media/home-bg.00a27b35644dac649fa4.jpeg",
+    "static/media/KartikDhar_8899025949.pdf": "/Portfolio/static/media/KartikDhar_8899025949.f974ce111ecde3568bce.pdf",
+    "static/media/wacky.png": "/Portfolio/static/media/wacky.2f31e3d911c36bc6576e.png",
+    "static/media/KD.png": "/Portfolio/static/media/KD.05c9bf08e853babd27a2.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/AMD.png": "/Portfolio/static/media/AMD.31028561dbe2e511de8b.png",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.e3864b66.css.map": "/Portfolio/static/css/main.e3864b66.css.map",
+    "main.9fee0b2c.js.map": "/Portfolio/static/js/main.9fee0b2c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3864b66.css",
+    "static/js/main.9fee0b2c.js"
+  ]
+}
